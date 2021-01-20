@@ -24,7 +24,7 @@
 
 ![Styled-Components](https://img.shields.io/badge/-StyledComponents-%23CC6699?style=flat-square&logo=styled-components&logoColor=ffffff)
 ![Bulma](https://img.shields.io/badge/-Bulma-%23333333?style=flat-square&logo=bulma)
-![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 

@@ -6,7 +6,7 @@
 
 :computer: Full Stack Engineer
 
-:vulcan_salute: Mostly focused on Web Development with React and Node.js are my favorite.
+:vulcan_salute: Mostly focused on Web Development with React and Node.js.
 
 ## My Tech Stack
 

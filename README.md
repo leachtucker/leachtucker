@@ -1,8 +1,9 @@
 # Hello, I am Tucker Leach
 
 [![](https://img.shields.io/badge/-@builtbytucker-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/builtbytucker)
+[![](https://img.shields.io/badge/-Website-%23282C34?style=flat-square)](https://tuckerleach.com)
 
-## I ❤️ programming 
+## I ❤️ programming
 
 :computer: Full Stack Engineer
 

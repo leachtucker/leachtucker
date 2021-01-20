@@ -28,6 +28,6 @@
 ![Bulma](https://img.shields.io/badge/-Bulma-%23333333?style=flat-square&logo=bulma)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 
-## 𝗦𝘁𝗮𝘁𝘀
+## Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leachtucker)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leachtucker&count_private=true&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)

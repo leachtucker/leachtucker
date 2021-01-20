@@ -6,7 +6,7 @@
 
 :computer: Full Stack Engineer
 
-:vulcan_salute: Mostly focused on Web Development. React and Node are my favorite.
+:vulcan_salute: Mostly focused on Web Development. React and Node.js are my favorite.
 
 ## My Tech Stack
 
@@ -14,6 +14,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Node](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js&logoColor=ffffff)
+
 
 ![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)

@@ -31,6 +31,6 @@
 
 ## Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leachtucker&count_private=true&theme=midnight-purple&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leachtucker&count_private=true&theme=midnight-purple&show_icons=true)]
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leachtucker&langs_count=5&hide=html&theme=midnight-purple)

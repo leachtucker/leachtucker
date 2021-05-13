@@ -4,6 +4,7 @@ Hi, I'm Tucker! I'm a software engineer who is passionate about providing value 
 
 [![](https://img.shields.io/badge/-@builtbytucker-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/builtbytucker)
 [![](https://img.shields.io/badge/-Website-%23282C34?style=flat-square)](https://tuckerleach.com)
+[![](https://img.shields.io/badge/-LinkedIn-%23282C34?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leachtucker/)
 
 ## I ❤️ programming
 

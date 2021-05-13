@@ -1,4 +1,6 @@
-# Hi, I am Tucker Leach
+# Hi 👋🖥️
+
+Hi, I'm Tucker! I'm a software engineer who is passionate about providing value to everyday people with tech. I want to make people's lives easier so that they can focus on doing what they do best.
 
 [![](https://img.shields.io/badge/-@builtbytucker-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/builtbytucker)
 [![](https://img.shields.io/badge/-Website-%23282C34?style=flat-square)](https://tuckerleach.com)

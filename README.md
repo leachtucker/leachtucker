@@ -21,14 +21,12 @@ Hi, I'm Tucker! I'm a software engineer who is passionate about providing value 
 ![Node](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js&logoColor=026E00)
 
 
-![ESlint](https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Heroku](https://img.shields.io/badge/-Heroku-%23282C34?style=flat-square&logo=heroku&logoColor=ffffff)
 
 
 ![Styled-Components](https://img.shields.io/badge/-StyledComponents-%23CC6699?style=flat-square&logo=styled-components&logoColor=ffffff)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 
 
 ## Stats

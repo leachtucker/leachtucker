@@ -6,7 +6,7 @@ Hi, I'm Tucker! I'm a software engineer who is passionate about providing value 
 [![](https://img.shields.io/badge/-Website-%23282C34?style=flat-square)](https://tuckerleach.com)
 [![](https://img.shields.io/badge/-LinkedIn-%23282C34?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leachtucker/)
 
-## I ❤️ programming
+## Interests
 
 :computer: Full Stack Engineer
 
@@ -31,6 +31,6 @@ Hi, I'm Tucker! I'm a software engineer who is passionate about providing value 
 
 ## Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leachtucker&count_private=true&theme=midnight-purple&show_icons=true)]
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leachtucker&count_private=true&theme=midnight-purple&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leachtucker&langs_count=5&hide=html&theme=midnight-purple)

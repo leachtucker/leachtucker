@@ -1,4 +1,4 @@
-# Hi 👋🖥️
+# Hi 👋
 
 [![](https://img.shields.io/badge/-Website-%23282C34?style=flat-square)](https://tuckerleach.com)
 [![](https://img.shields.io/badge/-LinkedIn-%23282C34?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/leachtucker/)

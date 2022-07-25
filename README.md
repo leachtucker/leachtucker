@@ -17,13 +17,9 @@ Mostly focused on Web Development with React and Node.js.
 ![React](https://img.shields.io/badge/-React-%ffffff?style=flat-square&logo=react&labelColor=61dafb&color=61dafb&logoColor=white)
 ![Node](https://img.shields.io/badge/-Node.js-%23282C34?style=flat-square&logo=node.js&logoColor=026E00)
 
-
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![Heroku](https://img.shields.io/badge/-Heroku-%23282C34?style=flat-square&logo=heroku&logoColor=ffffff)
-
-
-![Styled-Components](https://img.shields.io/badge/-StyledComponents-%23CC6699?style=flat-square&logo=styled-components&logoColor=ffffff)
 
 
 ## Stats

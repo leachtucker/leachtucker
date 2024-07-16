@@ -5,7 +5,7 @@
 
 ## Interests
 
-I am a passionate Web Engineer with a focus on frontend technologies. When I am not programming, I am probably playing video games, outside enjoying the nice weather, or at the gym! 
+I am a passionate software engineer with a focus on frontend and cybersecurity technologies. When I am not programming, I am probably playing video games, outside enjoying the weather, or at the gym! 
 
 ## Stats
 
